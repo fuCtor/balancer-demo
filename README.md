@@ -2,7 +2,7 @@
 
 Демонстрация работы finagle loadbalancer
 
-```plantuml
+<!--
 @startuml
 
 frame Runner {
@@ -34,4 +34,6 @@ actor User
 report --> User : Show report
 
 @enduml
-```
+-->
+
+![](https://www.plantuml.com/plantuml/svg/XP0zQmCn38PdwrTeR8SCkTiob43MSiE5Jg63ugYqu8zKjjEXvB_NEcAkXT2RB9xtqGVUfaoIYtS0RqAUSImXiE0tW7dOirnglNv4IfZaifvPrrWtixwnVcP3OmCOC3RwSmmSCkxSXpuriwukC-Rm7Ec4Ht8KBCkh9kv8OAxQTnZv72LFLAPIQSrnjNgQBjlWo9-5K_w3k_kulu-7NnYCJjNajX0tk8kbdYnDqVbBGhya3Fy9Lm2oEGg-91Q0cwKD2gg-VuzVxKDWo-5KlFi1)
